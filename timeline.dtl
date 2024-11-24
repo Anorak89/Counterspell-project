@@ -1,0 +1,14 @@
+[background arg="res://Scenes/Environment/background-1.png" fade="0.0"]
+"In a fractured world where reality warps with every decision, you awaken as Alaric, a soul split in two."
+[background arg="res://Scenes/Environment/background-2.png" fade="0.5"]
+One half represents your true self—courageous, determined, and hopeful. The other half is your shadow, a mirror of your doubts, regrets, and darkest impulses.
+[background arg="res://Scenes/Environment/background-3.png" fade="0.5"]
+Every step you take is mirrored by your shadow self, whose twisted perception of reality disrupts your progress, creating chaos and traps where stability should reign.
+[background arg="res://Scenes/Environment/background-4.png" fade="0.5"]
+Once a brilliant inventor, you built a machine to reshape the past, but it fractured your mind and birthed your shadow. Now, you must navigate a labyrinth of memories and undo the chaos you caused.
+[background arg="res://Scenes/Environment/background-5.png" fade="0.5"]
+Each level forces you to face the consequences of your split\: synchronized puzzles, mirrored movements, and inverted challenges that test your resolve.
+[background arg="res://Scenes/Environment/background-6.png" fade="0.5"]
+Only by embracing and outsmarting your shadow can you repair your fractured soul and reclaim the future. But beware—the closer you get to the truth, the more relentless your shadow becomes. 
+After all, the greatest enemy is the one who knows you best.
+[clear time="1.0"]
